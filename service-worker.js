@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mpvie_app_2020/precache-manifest.3a2c4a12a86688d3d49f34728183ad44.js"
+  "/mpvie_app_2020/precache-manifest.8558780738adfc8c004369315e9be160.js"
 );
 
 self.addEventListener('message', (event) => {
